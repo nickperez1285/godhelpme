@@ -1,0 +1,26 @@
+#home {
+    background: yellow;
+}
+
+.border-shading(@px) {
+    border-width: @px ;
+    margin: @px;
+}
+
+/* ul {
+    border: solid;
+    a .border-shading(50px);
+} */
+
+.buttpix {
+    width: 25%
+}
+
+#roofy {
+    width: 100%;
+    height: 15em;
+}
+
+#welcome {
+    font-size: 3em;
+}
